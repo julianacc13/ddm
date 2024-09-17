@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ddm"
-include(":app")
+include ':ddm (1), ':JogoPersonagem'
  
